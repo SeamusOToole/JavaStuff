@@ -1,6 +1,7 @@
 /*
  * Implementation of a basis substitution cipher. 
  * 
+ * 
  * @author Seamus O'Toole
  */
 package com.ocja.seamus;
